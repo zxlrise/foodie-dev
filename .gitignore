@@ -12,7 +12,6 @@
 *.iml
 .gitignore
 git
-
 .classpath
 .project
 .settings
