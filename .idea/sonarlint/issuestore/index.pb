@@ -27,3 +27,10 @@ d
 4java-dev-api/src/main/java/com/xiao/Application.java,2\0\20c5985ad50f4c39717e91f4e9b42083afa01b78
 s
 Cjava-dev-api/src/main/java/com/xiao/controller/HelloController.java,7\3\73e4cca477caa197b73a456bab697e9f0d01d29e
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
